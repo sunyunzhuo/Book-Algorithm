@@ -51,7 +51,7 @@ if __name__ == "__main__":
     print string, 'State:', HanoiState(string, 'A', 'C', 'B')
 ```
 
+输出示例:
 
-
-
+![](/assets/Hanoi.png)
 
