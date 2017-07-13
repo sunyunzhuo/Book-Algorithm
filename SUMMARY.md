@@ -23,8 +23,8 @@
 * Callatz 猜想
 * Eratosthenes 筛选法求素数
 * 循环染色方案
-* Hanoi 塔及进阶
-* 实数的整数次幂
+* [Hanoi 塔及进阶](fen-zhi-yu-di-gui/hanoi-ta-ji-jin-jie.md)
+* [实数的整数次幂](fen-zhi-yu-di-gui/shi-shu-de-zheng-shu-ci-mi.md)
 * Strassen 矩阵乘法
 * Karatsuba 大数乘法
 
