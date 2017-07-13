@@ -3,8 +3,6 @@
 ## 树
 
 * [Introduction](README.md)
-  * [动态规划](dong-tai-gui-hua.md)
-    * 123
 
 ## 数组
 
@@ -16,4 +14,7 @@
   * 123
 
 ## 表
+
+* [动态规划](dong-tai-gui-hua.md)
+  * 123
 
