@@ -31,7 +31,7 @@
 ## 数组
 
 * [天平称量问题](shu-zu/tian-ping-cheng-liang-wen-ti.md)
-* 绝对众数
+* [绝对众数](shu-zu/jue-dui-zhong-shu.md)
 * 局部最大值
 * 第一个缺失的整数
 * 旋转数组最小值
