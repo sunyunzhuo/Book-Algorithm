@@ -2,6 +2,8 @@
 
 ## 引言
 
+* [介绍](yin-yan/jie-shao.md)
+
 ## Python
 
 * [Python 入门](README.md)
