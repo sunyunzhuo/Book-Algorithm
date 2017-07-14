@@ -8,8 +8,8 @@
 
 ## 字符串
 
-* 循环移位
-* LCS 最长递增子序列
+* [循环移位](zi-fu-chuan/xun-huan-yi-wei.md)
+* [LCS 最长递增子序列](zi-fu-chuan/lcs-zui-chang-di-zeng-zi-xu-lie.md)
 * 字符串全排列
 * Mancher 算法
 * KMP 模板匹配
