@@ -46,7 +46,8 @@
 * 图
 * 查找排序
 * 动态规划
-* 概率组合
+* [概率组合](zi-fu-chuan/gai-lv-zu-he.md)
+  * [男女比例问题](zi-fu-chuan/gai-lv-zu-he/nan-nv-bi-li-wen-ti.md)
 * 海量数据
 
 ## 数学基础
